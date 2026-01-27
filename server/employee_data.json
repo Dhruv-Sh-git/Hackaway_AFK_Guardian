@@ -1035,6 +1035,1000 @@
                 "NOT SPEAKING": 58,
                 "SPEAKING": 2
             }
+        },
+        "2026-01-28T00:16:44.708233": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:16:42.632689",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 19,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 3420,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 11,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 3592,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 2,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:17:16.784471": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:17:14.754645",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 21,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2924,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "": {
+                    "time_spent": 1,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 72,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 8,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": "mm"
+                        },
+                        "mouse_movement_distance": {
+                            "count": 1418,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 24,
+                "SPEAKING": 6
+            }
+        },
+        "2026-01-28T00:17:48.865501": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:17:46.827100",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 2,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 297,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 28,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 9258,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 10,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:18:20.955749": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:18:18.912092",
+            "window_activity": {
+                "": {
+                    "time_spent": 1,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 676,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 2,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 21,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": "itisnotupdatinginthefrontend"
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2386,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 8,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": "2"
+                        },
+                        "mouse_movement_distance": {
+                            "count": 1665,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 3,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:18:53.055758": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:18:51.000596",
+            "window_activity": {
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 4,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 3473,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 26,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2402,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 2,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:19:03.949415": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:19:01.910788",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 30,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 4275,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:19:25.141001": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:19:23.099107",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 25,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 3777,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 5,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2071,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 2,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:19:36.025609": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:19:33.996678",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 15,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 1607,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 15,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 5117,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 3,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:19:57.234985": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:19:55.193765",
+            "window_activity": {
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 11,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 4532,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 19,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 4131,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 2,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:20:08.095665": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:20:06.069728",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 23,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 4951,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 6,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 7,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2940,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 3,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:20:29.353338": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:20:27.311326",
+            "window_activity": {
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 5,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2690,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 4,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 25,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": "\u0003\u0003npmrundev"
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2443,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 9,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:20:40.181454": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:20:38.141151",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 17,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": "\u0003\u0003npmrundev"
+                        },
+                        "mouse_movement_distance": {
+                            "count": 1627,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 5,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 13,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 5692,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 3,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:21:01.421261": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:20:59.399855",
+            "window_activity": {
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 10,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 5346,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 3,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 20,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": "graphsarenoytbuildingupinfrontend"
+                        },
+                        "mouse_movement_distance": {
+                            "count": 494,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 2,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:21:12.265490": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:21:10.230760",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 26,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": "graphsarenoytbuildingupinfrontend"
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2151,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 3,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 4,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 929,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 4,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:21:33.534160": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:21:31.481077",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 8,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 739,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 22,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 9325,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 15,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:21:44.352851": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:21:42.313132",
+            "window_activity": {
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 15,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 8291,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 9,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 15,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:22:05.630144": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:22:03.582957",
+            "window_activity": {
+                "server.py - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 29,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 6660,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 6,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Simple Browser - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 1,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
+        },
+        "2026-01-28T00:22:37.713350": {
+            "employee_id": 1,
+            "timestamp": "2026-01-28T00:22:35.679780",
+            "window_activity": {
+                "Simple Browser - Hackaway_AFK_Guardian - Visual Studio Code": {
+                    "time_spent": 16,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 4186,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 1,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                },
+                "Vite + React and 3 more pages - Personal - Microsoft\u200b Edge": {
+                    "time_spent": 14,
+                    "activities": {
+                        "keyboard_activity": {
+                            "count": 0,
+                            "text": ""
+                        },
+                        "mouse_movement_distance": {
+                            "count": 2055,
+                            "text": ""
+                        },
+                        "mouse_clicks": {
+                            "count": 4,
+                            "text": ""
+                        },
+                        "mouse_scrolls": {
+                            "count": 0,
+                            "text": ""
+                        }
+                    }
+                }
+            },
+            "activity_summary": {
+                "eyes_open_time": 0,
+                "eyes_closed_time": 0,
+                "eyes_not_detected_time": 0,
+                "NOT SPEAKING": 30
+            }
         }
     }
 }
